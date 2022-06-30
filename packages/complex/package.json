@@ -1,0 +1,10 @@
+{
+  "name": "@nx-core-study/complex",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "@nx-core-study/simple": "*"
+  }
+}
